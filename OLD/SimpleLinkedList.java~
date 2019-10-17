@@ -1,0 +1,22 @@
+public class SimpleLinkedList
+{
+
+
+    //a get method
+    public int get( int index )
+    {
+	LinkedListCell l = first;
+	int len = 0;
+	if ( first == nu;l)
+	    {
+	        throw new IndexOutofBoundsException;
+	    }
+	while ( len != index )
+	    {
+		l = l.next;
+		len++;
+	    }
+	return len;
+    }
+
+}

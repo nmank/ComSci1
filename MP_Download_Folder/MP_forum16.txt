@@ -1,0 +1,208 @@
+ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta name="viewport" content="width=device-width">
+<meta property="og:site_name" content="Mountain Project" />
+<meta property="fb:admins" content="7502113,525057164" />
+<!--Alexa: WgWAgQH8AQS7jTnNHMcnMmrzeDU -->
+<link rel='stylesheet' type='text/css' href='/css/global_1411056494.css' media=''/>
+<link rel='stylesheet' type='text/css' href='/css/custom/jquery-ui-1.10.3.custom_1376431165.css' media=''/>
+<link rel='stylesheet' type='text/css' href='/css/print_1409349266.css' media='print'/>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/jquery-ui.min.js"><\/script>')</script>
+
+
+<meta name='keywords' content="rock climbing, ice climbing, bouldering, aid climbing, mountaineering" />
+
+<title>Forum: FOR SALE / Wanted</title>
+<script src='/js/cookies_1383762860.js' type='text/javascript'></script>
+<script src='/js/common_1409715696.js' type='text/javascript'></script>
+
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-407891-1', 'mountainproject.com');
+  ga('set', 'dimension1', 'forumCategory');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Google DFP -->
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<div class="rspPage"></div>
+<script type='text/javascript'>
+var v=$(".rspPage").css("font-size");
+var rspPage = 'small';
+if (v == '50px')
+    rspPage = 'large';
+log(v+" font size for rspPage class maps to " +rspPage);
+
+if (!inIframe())
+{
+    googletag.defineSlot('/32589416/Gear_Related_Forums', [300, 250], 'div-gpt-ad-1383150672461-1').addService(googletag.pubads());
+
+/*    if (rspPage == 'small')
+    {
+    googletag.defineSlot('/32589416/MP_Mobile_Banner_Footer', [320, 50], 'div-gpt-ad-1409101415361-0').addService(googletag.pubads());
+
+    }
+    else
+*/    {
+    googletag.defineSlot('/32589416/MP-FooterLeaderboard', [728, 90], 'div-gpt-ad-1391222684306-0').addService(googletag.pubads());
+
+    }
+    googletag.pubads().enableSyncRendering();
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+}
+</script>
+<!-- End Google DFP -->
+</head>
+<body>
+<!--START HEADER-->
+<div id="rspBodyContainer">			<div id='blueHeaderBox' class="rounded" style='background-color:#336799; width=100%; padding:5px 0; margin-bottom:10px;'>
+			<table cellpadding=0 cellspacing=0 width=100%  style="padding: 0;">
+			<tr>
+			<td rowspan="2" style="padding:0 10px; vertical-align:top; position:relative;">
+			    <div class="nowrap">
+                    <a id="headerMenu" href="#" onclick="$('#rspNav').toggle('fast');return false;"><img
+                        src="/img/menu.png"
+                        style="height:40px; padding-right:15px; margin:auto;" /></a><a
+                        href="/" style="font-size:0;"><img id='headerLogo' src='/img/blueLogo.gif' /></a>
+			    </div>
+                <div id="rspNav" class="textWhite large bold roundedBottom">
+                    <div><a href='/destinations/'>Route Guide</a></div><div><a href='/mobileApps'>iPhone / Android</a></div><div><a href='/scripts/Partners'>Partners</a></div><div><a href='/forums/'>Forum</a></div><div><a href='/scripts/Photos'>Photos</a></div><div><a href='http://deals.mountainproject.com/deals/climb'>Deals</a></div><div><a href='/scripts/WhatsNew?daysold=7'>What's New</a></div><div><a href='/school-of-rock'>School of Rock</a></div><div><a href='/scripts/Search'>Search</a></div>
+                </div>
+                <div id="fullHeaderNav" class="textWhite bold">
+                    <a href='/destinations/'>Route Guide</a> - <a href='/mobileApps'>iPhone / Android</a> - <a href='/scripts/Partners'>Partners</a> - <a href='/forums/'>Forum</a> - <a href='/scripts/Photos'>Photos</a> - <a href='http://deals.mountainproject.com/deals/climb'>Deals</a> - <a href='/scripts/WhatsNew?daysold=7'>What's New</a> - <a href='/school-of-rock'>School of Rock</a> 
+                </div>
+			</td>
+			<td align='right' style="padding:0 10px; vertical-align:top;">
+				<span style="color:white;"><a href="/scripts/Login?action=startFBLogin" title="Sign in with Facebook"><img
+ alt="Login with Facebook" src="/img/loginFacebook.png" style="margin:2px 0; padding:1px; background-color:#bbb;"></a>
+<div class="">
+<a style="color:white;" class="overlay"  href="#"
+ data-title="Login" data-width="400px" data-ajax="/scripts/Login?action=loginForm">Login with Email</a>
+ &nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:white;" href="/scripts/Signup">Signup</a>
+</div></span>
+		    </td>
+		    </tr>
+		    <tr>
+		    <td id="headerSearch" align='right' style="padding:0 10px; vertical-align:bottom;">
+                <form action="/scripts/Search" method="get">
+                    <input name="query" type="text" value="" size="17" />
+                    <input type="submit" name="Submit" value="Search" />&nbsp;<a href="/scripts/Search" style='color:white;'><span class="small">ADVANCED</span></a>
+                </form>
+	    	</td>
+		    </tr>
+		    </table>
+			</div>
+<!-- END OF HEADER -->
+
+
+
+<table width=100% cellspacing=0 style="padding-bottom:5px;">
+	<tr><td valign='top'>
+	    <div id='forumNavBox' class="rounded" style='background-color:#d9d9d9; margin-top:10px; width=100%'>
+    <div style="padding: 5px 15px;" class="bold medium"><a href='/forums/'>Forums</a></div>
+</div>
+<b><span class='large dkorange'>FOR SALE / Wanted</span></b><br /><b>Forum Administrator:</b> <a target="_top" href="/u/peter-franzen//10116">Peter Franzen</a>, <a target="_top" href="/u/adam-stackhouse//12549">Adam Stackhouse</a>, <a target="_top" href="/u/m-sprague//105885115">M Sprague</a>, <a target="_top" href="/u/saxfiend//105886712">saxfiend</a>, <a target="_top" href="/u/chris-tregge//105966977">Chris treggE</a><br /><br /><span style='border:1px dashed gray; padding:0 5px;'>
+	<b>View Latest Posts in <a href='/scripts/WhatsNew.php?what=MESSAGE&amp;mode=&amp;daysold=90&amp;locationId=103989416&amp;filter='>This Forum</a> or <a href='/scripts/WhatsNew.php?what=MESSAGE&amp;mode=&amp;daysold=90&amp;locationId=0&amp;filter='>All Forums</a></b>
+</span>&nbsp;&nbsp;<div style='padding:15px 0;'><a href='/scripts/EditObject.php?id=103989416&amp;action=add&amp;type=MESSAGE'><img src='/img/forum_newtopic.gif' align=absmiddle width=103 height=24 /></a>&nbsp;&nbsp;&nbsp;Page 16 of 20.&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__1'>&lt;&lt;First</a>&nbsp;&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__15'>&lt;Prev</a>&nbsp;&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__14'>14</a>&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__15'>15</a>&nbsp;&nbsp;<b>16</b>&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__17'>17</a>&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__18'>18</a>&nbsp;&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__17'>Next&gt;</a>&nbsp;&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__20'>Last&gt;&gt;</a></div>
+	    <div id="dealtext450680655"
+    style="border:1px solid #FF9900; display:inline-block; background-color:#FFF5E6; padding:4px;">&nbsp;</div>
+<script async src="http://deals.mountainproject.com/get?host=mountainProject&type=text&r=450680655"></script>
+	</td>
+	<td align='right' valign='top' style="width:300px; padding-left:10px;" class='forumPR'>
+<!--Gear_Related_Forums-->
+<div class="">
+    <div class="">
+    <div id="dfpId_2035395965" style="border:1px solid #ccc; margin:auto;"></div>
+    <script>
+    var dfpId_2035395965='div-gpt-ad-1383150672461-1';
+    var w=300; var h=250;
+    
+    $("#dfpId_2035395965").attr("id",dfpId_2035395965).width(w).height(h);
+    googletag.display(dfpId_2035395965);
+    </script>
+    </div>
+</div>
+</td></tr>
+</table>
+<table width=100% cellpadding=0 cellspacing=0>
+	<tr><td class='objectListColumnHeader'></td>
+
+<td class='objectListColumnHeader'></td>
+
+<td class='objectListColumnHeader'>Topic Title</td>
+
+<td class='objectListColumnHeader'>Replies</td>
+
+<td class='objectListColumnHeader'>Author</td>
+
+<td class='objectListColumnHeader'>Views</td>
+
+<td class='objectListColumnHeader'>Last Post</td>
+
+</tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/deluxe-cliff-cabana-double-fly--300/109424405">Deluxe Cliff Cabana Double Fly- $300</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/kevin-nicastro//107251579'>Kevin Nicastro</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>80</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/kevin-nicastro//107251579'>Kevin Nicastro</a>&nbsp;<a href='/v/deluxe-cliff-cabana-double-fly--300/109424405'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/single-trad-rack-300-slc/109408982">Single trad rack 300$ slc</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/mrock//108084794'>MRock</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>471</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/mrock//108084794'>MRock</a>&nbsp;<a href='/v/109424256'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/scarpa-charmoz-climbing-boots-size-44/109424181">Scarpa Charmoz Climbing Boots Size 44</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/andrew-fioretto//109419480'>Andrew Fioretto</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>32</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/andrew-fioretto//109419480'>Andrew Fioretto</a>&nbsp;<a href='/v/scarpa-charmoz-climbing-boots-size-44/109424181'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/goal-zero-nomad-7-solar-charger-used-fifty-bucks/109424156">Goal Zero Nomad 7 solar charger, used, fifty bucks</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/lhotsa//106856723'>Lhotsa</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>78</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/lhotsa//106856723'>Lhotsa</a>&nbsp;<a href='/v/goal-zero-nomad-7-solar-charger-used-fifty-bucks/109424156'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/wanted-retired-guide-style-device/109423725">Wanted: Retired guide style device</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/cmj//108690445'>cmj</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>168</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/cmj//108690445'>cmj</a>&nbsp;<a href='/v/wanted-retired-guide-style-device/109423725'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/evolv-defys-fs-size-445/109420162">Evolv Defy's FS, Size 44.5</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/robots-and-dinosaurs//108224327'>Robots and Dinosaurs</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>42</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/robots-and-dinosaurs//108224327'>Robots and Dinosaurs</a>&nbsp;<a href='/v/109423656'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-grivel-easy-plume-quickdraws/109307730">FS: Grivel Easy Plume Quickdraws</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/coop//13789'>coop</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>195</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/coop//13789'>coop</a>&nbsp;<a href='/v/109423167'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-montane-mens-mohawk-event-jacket-size-m-reduced/109356111">FS: Montane Men's Mohawk eVent Jacket Size M  Reduced</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>3</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/chris-borg//107974463'>Chris Borg</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>180</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/chris-borg//107974463'>Chris Borg</a>&nbsp;<a href='/v/109423048'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/wtb-used-sportiva-ice-boots/109423045">WTB: Used Sportiva Ice Boots</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/peter-hurtgen//107420191'>Peter Hurtgen</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>61</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/peter-hurtgen//107420191'>Peter Hurtgen</a>&nbsp;<a href='/v/wtb-used-sportiva-ice-boots/109423045'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-bd-water-filter-msr-510-and-more/109374904">FS:  BD, Water filter, MSR, 5.10 and more</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>8</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/ryan-huetter//105814425'>Ryan Huetter</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>957</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/ryan-huetter//105814425'>Ryan Huetter</a>&nbsp;<a href='/v/109422817'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-scarpa-vapor-lace-sz-eu-45--us-105/109396116">FS: Scarpa Vapor Lace Sz EU 45 / US 10.5</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/drewp//107707031'>drewp</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>72</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/drewp//107707031'>drewp</a>&nbsp;<a href='/v/109422560'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/petzl-grigri-trango-cinch-all-new-in-packaging-ideally-pick-up-in-seattle-but-i-can-mail/109367563">Petzl GriGri, Trango Cinch (all NEW in packaging), ideally pick-up in Seattle, but I can mail</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>2</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/lhotsa//106856723'>Lhotsa</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>329</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/matemike//106328839'>matemike</a>&nbsp;<a href='/v/109422540'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-clothes-jackets---patagonia-mh-lululemon-mens-size-small--30/109247295">FS: clothes, jackets - patagonia, mh, lululemon (mens size small / 30)</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>4</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/pokey//107399024'>pokey</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>686</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/pokey//107399024'>pokey</a>&nbsp;<a href='/v/109422521'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-five-ten-blackwings-size-9-us-sold/109407703">FS: Five Ten Blackwings Size 9 US SOLD</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>4</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/neil-rankin//107470720'>Neil Rankin</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>151</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/neil-rankin//107470720'>Neil Rankin</a>&nbsp;<a href='/v/109422370'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/jetboil-sol-used-still-works-special-condition/109421792">JetBoil Sol, used, still works, special condition</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/lhotsa//106856723'>Lhotsa</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>160</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/gunks-jesse//108988764'>Gunks Jesse</a>&nbsp;<a href='/v/109422042'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-wc-friend/109406700">FS: WC Friend</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>15</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/joshuajones//107210677'>JoshuaJones</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>897</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 2, 2014<br/><a href='/u/joshuajones//107210677'>JoshuaJones</a>&nbsp;<a href='/v/109421522'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/osprey-atmos-65-brand-new-in-bag-160/109349942">Osprey Atmos 65, brand new in bag $160</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>7</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/sam-stephens//106655109'>Sam Stephens</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>347</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 1, 2014<br/><a href='/u/sam-stephens//106655109'>Sam Stephens</a>&nbsp;<a href='/v/109420214'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/time-share-my-slide-in-camper-/109411028">Time share my slide in camper! </a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>7</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/jon-c-sullivan//106825887'>Jon C. Sullivan</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>639</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 1, 2014<br/><a href='/u/jon-c-sullivan//106825887'>Jon C. Sullivan</a>&nbsp;<a href='/v/109419944'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/large-prana-short-sleeve-shirt-plaid/109419504">Large Prana Short Sleeve Shirt plaid</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/nic-lazzareschi//107094866'>Nic Lazzareschi</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>39</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 1, 2014<br/><a href='/u/nic-lazzareschi//107094866'>Nic Lazzareschi</a>&nbsp;<a href='/v/large-prana-short-sleeve-shirt-plaid/109419504'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-tenaya-oasi-climbing-shoes-size-42-brand-new-in-box/109206229">FS: Tenaya Oasi climbing shoes size 42.  Brand new in box</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>3</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/ryan-stott//106545208'>Ryan Stott</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>309</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 1, 2014<br/><a href='/u/ryan-stott//106545208'>Ryan Stott</a>&nbsp;<a href='/v/109419291'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-black-diamond-coefficient-vest-size-m/109419013">F/S: Black Diamond CoEfficient Vest Size M</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/mailforwil//106695669'>mailforwil</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>68</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 1, 2014<br/><a href='/u/mailforwil//106695669'>mailforwil</a>&nbsp;<a href='/v/fs-black-diamond-coefficient-vest-size-m/109419013'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-womens-merrell-proterra-vim-sport-hiking-shoe-black-8/109418676">FS Women's Merrell Proterra Vim Sport Hiking Shoe Black 8</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/colleen-dougherty//108735409'>Colleen Dougherty</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>13</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 1, 2014<br/><a href='/u/colleen-dougherty//108735409'>Colleen Dougherty</a>&nbsp;<a href='/v/fs-womens-merrell-proterra-vim-sport-hiking-shoe-black-8/109418676'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width

@@ -1,0 +1,18 @@
+public class Step1
+{    
+    import java.net.*;
+    import java.io.*;
+    import java.util.Scanner;
+    public class URLReader
+    {
+	public static void main(String[] args) throws MalformedURLException, IOException 
+	{
+	    URL website = new URL("http://www.xkcd.com");
+	    Scanner myScanner = new Scanner(website.openStream());
+	    while (myScanner.hasNextLine()) 
+		{
+		System.out.println(myScanner.nextLine());
+	    }
+	}
+    }
+}

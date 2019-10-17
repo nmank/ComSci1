@@ -1,0 +1,208 @@
+ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta name="viewport" content="width=device-width">
+<meta property="og:site_name" content="Mountain Project" />
+<meta property="fb:admins" content="7502113,525057164" />
+<!--Alexa: WgWAgQH8AQS7jTnNHMcnMmrzeDU -->
+<link rel='stylesheet' type='text/css' href='/css/global_1411056494.css' media=''/>
+<link rel='stylesheet' type='text/css' href='/css/custom/jquery-ui-1.10.3.custom_1376431165.css' media=''/>
+<link rel='stylesheet' type='text/css' href='/css/print_1409349266.css' media='print'/>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/jquery-ui.min.js"><\/script>')</script>
+
+
+<meta name='keywords' content="rock climbing, ice climbing, bouldering, aid climbing, mountaineering" />
+
+<title>Forum: FOR SALE / Wanted</title>
+<script src='/js/cookies_1383762860.js' type='text/javascript'></script>
+<script src='/js/common_1409715696.js' type='text/javascript'></script>
+
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-407891-1', 'mountainproject.com');
+  ga('set', 'dimension1', 'forumCategory');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Google DFP -->
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<div class="rspPage"></div>
+<script type='text/javascript'>
+var v=$(".rspPage").css("font-size");
+var rspPage = 'small';
+if (v == '50px')
+    rspPage = 'large';
+log(v+" font size for rspPage class maps to " +rspPage);
+
+if (!inIframe())
+{
+    googletag.defineSlot('/32589416/Gear_Related_Forums', [300, 250], 'div-gpt-ad-1383150672461-1').addService(googletag.pubads());
+
+/*    if (rspPage == 'small')
+    {
+    googletag.defineSlot('/32589416/MP_Mobile_Banner_Footer', [320, 50], 'div-gpt-ad-1409101415361-0').addService(googletag.pubads());
+
+    }
+    else
+*/    {
+    googletag.defineSlot('/32589416/MP-FooterLeaderboard', [728, 90], 'div-gpt-ad-1391222684306-0').addService(googletag.pubads());
+
+    }
+    googletag.pubads().enableSyncRendering();
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+}
+</script>
+<!-- End Google DFP -->
+</head>
+<body>
+<!--START HEADER-->
+<div id="rspBodyContainer">			<div id='blueHeaderBox' class="rounded" style='background-color:#336799; width=100%; padding:5px 0; margin-bottom:10px;'>
+			<table cellpadding=0 cellspacing=0 width=100%  style="padding: 0;">
+			<tr>
+			<td rowspan="2" style="padding:0 10px; vertical-align:top; position:relative;">
+			    <div class="nowrap">
+                    <a id="headerMenu" href="#" onclick="$('#rspNav').toggle('fast');return false;"><img
+                        src="/img/menu.png"
+                        style="height:40px; padding-right:15px; margin:auto;" /></a><a
+                        href="/" style="font-size:0;"><img id='headerLogo' src='/img/blueLogo.gif' /></a>
+			    </div>
+                <div id="rspNav" class="textWhite large bold roundedBottom">
+                    <div><a href='/destinations/'>Route Guide</a></div><div><a href='/mobileApps'>iPhone / Android</a></div><div><a href='/scripts/Partners'>Partners</a></div><div><a href='/forums/'>Forum</a></div><div><a href='/scripts/Photos'>Photos</a></div><div><a href='http://deals.mountainproject.com/deals/climb'>Deals</a></div><div><a href='/scripts/WhatsNew?daysold=7'>What's New</a></div><div><a href='/school-of-rock'>School of Rock</a></div><div><a href='/scripts/Search'>Search</a></div>
+                </div>
+                <div id="fullHeaderNav" class="textWhite bold">
+                    <a href='/destinations/'>Route Guide</a> - <a href='/mobileApps'>iPhone / Android</a> - <a href='/scripts/Partners'>Partners</a> - <a href='/forums/'>Forum</a> - <a href='/scripts/Photos'>Photos</a> - <a href='http://deals.mountainproject.com/deals/climb'>Deals</a> - <a href='/scripts/WhatsNew?daysold=7'>What's New</a> - <a href='/school-of-rock'>School of Rock</a> 
+                </div>
+			</td>
+			<td align='right' style="padding:0 10px; vertical-align:top;">
+				<span style="color:white;"><a href="/scripts/Login?action=startFBLogin" title="Sign in with Facebook"><img
+ alt="Login with Facebook" src="/img/loginFacebook.png" style="margin:2px 0; padding:1px; background-color:#bbb;"></a>
+<div class="">
+<a style="color:white;" class="overlay"  href="#"
+ data-title="Login" data-width="400px" data-ajax="/scripts/Login?action=loginForm">Login with Email</a>
+ &nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:white;" href="/scripts/Signup">Signup</a>
+</div></span>
+		    </td>
+		    </tr>
+		    <tr>
+		    <td id="headerSearch" align='right' style="padding:0 10px; vertical-align:bottom;">
+                <form action="/scripts/Search" method="get">
+                    <input name="query" type="text" value="" size="17" />
+                    <input type="submit" name="Submit" value="Search" />&nbsp;<a href="/scripts/Search" style='color:white;'><span class="small">ADVANCED</span></a>
+                </form>
+	    	</td>
+		    </tr>
+		    </table>
+			</div>
+<!-- END OF HEADER -->
+
+
+
+<table width=100% cellspacing=0 style="padding-bottom:5px;">
+	<tr><td valign='top'>
+	    <div id='forumNavBox' class="rounded" style='background-color:#d9d9d9; margin-top:10px; width=100%'>
+    <div style="padding: 5px 15px;" class="bold medium"><a href='/forums/'>Forums</a></div>
+</div>
+<b><span class='large dkorange'>FOR SALE / Wanted</span></b><br /><b>Forum Administrator:</b> <a target="_top" href="/u/peter-franzen//10116">Peter Franzen</a>, <a target="_top" href="/u/adam-stackhouse//12549">Adam Stackhouse</a>, <a target="_top" href="/u/m-sprague//105885115">M Sprague</a>, <a target="_top" href="/u/saxfiend//105886712">saxfiend</a>, <a target="_top" href="/u/chris-tregge//105966977">Chris treggE</a><br /><br /><span style='border:1px dashed gray; padding:0 5px;'>
+	<b>View Latest Posts in <a href='/scripts/WhatsNew.php?what=MESSAGE&amp;mode=&amp;daysold=90&amp;locationId=103989416&amp;filter='>This Forum</a> or <a href='/scripts/WhatsNew.php?what=MESSAGE&amp;mode=&amp;daysold=90&amp;locationId=0&amp;filter='>All Forums</a></b>
+</span>&nbsp;&nbsp;<div style='padding:15px 0;'><a href='/scripts/EditObject.php?id=103989416&amp;action=add&amp;type=MESSAGE'><img src='/img/forum_newtopic.gif' align=absmiddle width=103 height=24 /></a>&nbsp;&nbsp;&nbsp;Page 12 of 20.&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__1'>&lt;&lt;First</a>&nbsp;&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__11'>&lt;Prev</a>&nbsp;&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__10'>10</a>&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__11'>11</a>&nbsp;&nbsp;<b>12</b>&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__13'>13</a>&nbsp;&nbsp;<a href='/v/for-sale--wanted/103989416__14'>14</a>&nbsp;&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__13'>Next&gt;</a>&nbsp;&nbsp;&nbsp;<a class='smallMedium' href='/v/for-sale--wanted/103989416__20'>Last&gt;&gt;</a></div>
+	    <div id="dealtext1217963897"
+    style="border:1px solid #FF9900; display:inline-block; background-color:#FFF5E6; padding:4px;">&nbsp;</div>
+<script async src="http://deals.mountainproject.com/get?host=mountainProject&type=text&r=1217963897"></script>
+	</td>
+	<td align='right' valign='top' style="width:300px; padding-left:10px;" class='forumPR'>
+<!--Gear_Related_Forums-->
+<div class="">
+    <div class="">
+    <div id="dfpId_1671201337" style="border:1px solid #ccc; margin:auto;"></div>
+    <script>
+    var dfpId_1671201337='div-gpt-ad-1383150672461-1';
+    var w=300; var h=250;
+    
+    $("#dfpId_1671201337").attr("id",dfpId_1671201337).width(w).height(h);
+    googletag.display(dfpId_1671201337);
+    </script>
+    </div>
+</div>
+</td></tr>
+</table>
+<table width=100% cellpadding=0 cellspacing=0>
+	<tr><td class='objectListColumnHeader'></td>
+
+<td class='objectListColumnHeader'></td>
+
+<td class='objectListColumnHeader'>Topic Title</td>
+
+<td class='objectListColumnHeader'>Replies</td>
+
+<td class='objectListColumnHeader'>Author</td>
+
+<td class='objectListColumnHeader'>Views</td>
+
+<td class='objectListColumnHeader'>Last Post</td>
+
+</tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/edelrid-cyrus-harness-xs-75-plus-shipping/109447031">Edelrid Cyrus Harness XS $75 plus shipping</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/joel-unema//106615734'>Joel Unema</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>22</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 8, 2014<br/><a href='/u/joel-unema//106615734'>Joel Unema</a>&nbsp;<a href='/v/edelrid-cyrus-harness-xs-75-plus-shipping/109447031'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/wtb-mens-large-front-point-bibsr1-hoody-large/109446172">Wtb mens large front point bibs/r1 hoody large</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/jonathan-sanford//107459630'>Jonathan Sanford</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>32</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 8, 2014<br/><a href='/u/jonathan-sanford//107459630'>Jonathan Sanford</a>&nbsp;<a href='/v/wtb-mens-large-front-point-bibsr1-hoody-large/109446172'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/all-new-locking-carabiner-quick-draws-belay-devices-/109424538">All New Locking Carabiner, Quick Draws, Belay Devices </a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>3</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/doug-d//105822284'>Doug D</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>446</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 8, 2014<br/><a href='/u/c-martin//108210271'>C Martin</a>&nbsp;<a href='/v/109446058'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-la-sportiva-testarossas-and-acopa-chameleons-rock-shoes/109445837">FS: La Sportiva Testarossas and Acopa Chameleons rock shoes</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/blagoves//106445962'>Blagoves</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>81</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 8, 2014<br/><a href='/u/blagoves//106445962'>Blagoves</a>&nbsp;<a href='/v/fs-la-sportiva-testarossas-and-acopa-chameleons-rock-shoes/109445837'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fsft-mixed-cams/109353642">FS/FT Mixed Cams</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>2</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/zachary-cole//107834406'>Zachary Cole</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>626</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/zachary-cole//107834406'>Zachary Cole</a>&nbsp;<a href='/v/109444852'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fsft-ice-tools-screws-cam/109444406">FS/FT Ice tools, Screws, cam</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/nkroencke//108365783'>NKroencke</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>190</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/nkroencke//108365783'>NKroencke</a>&nbsp;<a href='/v/fsft-ice-tools-screws-cam/109444406'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fsft-iceclimbing-gear-for-saletrade/109417945">FS/FT: Ice/climbing gear for sale/trade</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>2</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/nkroencke//108365783'>NKroencke</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>470</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/nkroencke//108365783'>NKroencke</a>&nbsp;<a href='/v/109444379'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/for-sale-black-diamond-fusion-ice-tools--reduced-asking-price/109405472">For Sale: Black Diamond Fusion Ice Tools- Reduced Asking Price</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>3</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/mike-sohasky//106647501'>Mike Sohasky</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>363</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/mike-sohasky//106647501'>Mike Sohasky</a>&nbsp;<a href='/v/109443912'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/wtb-4-season-tent-/109443184">WTB 4 season tent. </a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/nickinco//106893421'>NickinCO</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>80</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/mike-sohasky//106647501'>Mike Sohasky</a>&nbsp;<a href='/v/109443907'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-first-ascent-eddie-bauer-black-diamond-mountain-hardwear-mammut/109260626">FS: First Ascent, Eddie Bauer, Black Diamond, Mountain Hardwear, Mammut</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>5</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/aarondray//108728205'>aarondray</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>850</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/llubchenco//108393995'>LLubchenco</a>&nbsp;<a href='/v/109443488'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-bw-ice-floss-pair/109441022">FS BW Ice Floss (pair)</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/andrew1371//107006597'>Andrew1371</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>177</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/edarriola//107255062'>edarriola</a>&nbsp;<a href='/v/109443047'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-black-diamond-carbon-megawatts-w-voile-x2--bd-skins/109398002">FS: Black Diamond Carbon Megawatts w/ Voile X2 & BD Skins</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>3</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/damien-brickpack//107219965'>Damien Brickpack</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>222</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/damien-brickpack//107219965'>Damien Brickpack</a>&nbsp;<a href='/v/109443024'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-patagonia-mad-rock--bd-gear/109404398">FS: Patagonia, Mad Rock & BD Gear</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>2</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/davismeschke//108376511'>DavisMeschke</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>423</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/davismeschke//108376511'>DavisMeschke</a>&nbsp;<a href='/v/109442912'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-new--sz-8-510-stoneland-vcs-75/109385483">FS NEW- sz 8 5.10 stoneland vcs 75$</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>5</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/donstamos//107587591'>DoNstamos</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>96</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/donstamos//107587591'>DoNstamos</a>&nbsp;<a href='/v/109442743'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/tc-pros-510-teams-anasazi-vcs/109344025">TC Pros, 5.10 Teams, anasazi vcs</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>5</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/ryan-kelley//108600105'>Ryan Kelley</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>527</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/david-graham//108236363'>david Graham</a>&nbsp;<a href='/v/109442725'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/sold-aid-gear-link-cams-dogbones/109440332">SOLD: Aid Gear, Link Cams, Dogbones</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>4</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/coldatom//107294926'>coldatom</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>175</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/coldatom//107294926'>coldatom</a>&nbsp;<a href='/v/109442609'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/updated-patagonia-knifeblade-brand-new-scarpa-techno-x-sportiva-katana-lace-clothes-stove/109330470">UPDATED Patagonia Knifeblade, brand new Scarpa Techno X, Sportiva Katana lace, clothes, stove</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>9</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/nick-jackson//107176647'>Nick Jackson</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>940</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 7, 2014<br/><a href='/u/nick-jackson//107176647'>Nick Jackson</a>&nbsp;<a href='/v/109441770'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/bd-kilowatt-tele-setup-in-ne/109440934">bD kilowatt tele setup in NE</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/danomcq//107936274'>Danomcq</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>59</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 6, 2014<br/><a href='/u/danomcq//107936274'>Danomcq</a>&nbsp;<a href='/v/bd-kilowatt-tele-setup-in-ne/109440934'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/fs-garuda-jalan-jalan-tent/109439847">FS: Garuda Jalan Jalan Tent</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>1</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/deimos//106726085'>Deimos</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>91</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 6, 2014<br/><a href='/u/danomcq//107936274'>Danomcq</a>&nbsp;<a href='/v/109440911'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/new-petzl-chest-harnesscrolloval--french-links/109440761">New Petzl Chest Harness/Croll/Oval & French Links</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>0</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/lance-putnam//108036820'>Lance Putnam</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>53</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 6, 2014<br/><a href='/u/lance-putnam//108036820'>Lance Putnam</a>&nbsp;<a href='/v/new-petzl-chest-harnesscrolloval--french-links/109440761'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/gri-gri-1/109440376">Gri gri  1</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>2</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/john-strand//106168303'>john strand</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>106</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 6, 2014<br/><a href='/u/john-strand//106168303'>john strand</a>&nbsp;<a href='/v/109440410'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr bgcolor='#f2f2f2'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='border-bottom:1px solid #aaaaaa;'> <b><a target="_top" href="/v/looking-to-replace-two-packs-that-were-loststolen-in-my-last-move/109437760">Looking to replace two packs that were lost/stolen in my last move</a></b><br/></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>4</td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><a href='/u/randyp//109374818'>RandyP</a></td><td align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'>218</td><td width=115 align='center' style='border-bottom:1px solid #aaaaaa;' valign='middle'><small>Sep 6, 2014<br/><a href='/u/n-nelsen//106793247'>N Nelsen</a>&nbsp;<a href='/v/109440378'><img border=0 src='/img/forum_latestpost.gif' width=18 height=9 alt='Jump to this last post' /></a></small></td></tr>
+<tr  bgcolor='#ffffff'>
+<td width=23 valign=middle align=center style='border-bottom:1px solid #aaaaaa;'>&nbsp;<img src="/img/forum_topic.gif" align="middle" width=19 height=18 /></td><td width=8 valign=middle  style='border-bottom:1px solid #aaaaaa;'>&nbsp;</td><td style='

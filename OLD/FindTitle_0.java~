@@ -1,0 +1,22 @@
+import java.util.regex.*;
+
+public class FindTitle_0
+{
+    String input;
+    public void FindTitle_0(String input)
+    {
+	String _input = input;
+	Pattern p = Pattern.compile( "//v//(.*)<//a><//b><br//><//td><td" );
+	Matcher m = p.matcher( _input );
+	while (m.find())
+	    {
+	        System.out.println(m.group());
+	    }
+    }
+
+    public static void main( String [] args )
+    {
+	String input = "/v/gato</a></b><br/></td><tdlqku;ifnaef;afakjfd;dsfhs;dkfjhsadfiuiwhefsajdf/v/taco</a></b><br/></td><tdadszfzf";
+
+    }
+}
